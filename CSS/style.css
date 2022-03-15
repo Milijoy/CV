@@ -1,0 +1,10 @@
+header {text-align: center}
+
+h1 {text-align: center;}
+
+.titulo {background-color: #C4C4C4; color:#005677;    letter-spacing: 5px;}
+
+#nombre {font-style: italic;font-weight: bolder;}
+
+
+.final {background-color:#005677;font-family: 'Times New Roman', Times, serif; color: white; font-weight: bold; text-align: center;font-size: 20px; font-size: large;}
