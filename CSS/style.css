@@ -1,6 +1,8 @@
 div {margin-top: 50px;}
 .cv {margin-top: 100px;}
-header {text-align: center}
+header {text-align: center;
+background-color: rgba(230, 230, 230, 1);
+}
 
 h1 {text-align: center;}
 
